@@ -1,5 +1,6 @@
 # Visualization
 matplotlib.pyplot 可视化基础
+<br/>
 ![cmd-markdown-logo](https://github.com/jerry0chu/Visualization/blob/master/display/1.jpg)
 ![cmd-markdown-logo](https://github.com/jerry0chu/Visualization/blob/master/display/2.jpg)
 ![cmd-markdown-logo](https://github.com/jerry0chu/Visualization/blob/master/display/3.jpg)
